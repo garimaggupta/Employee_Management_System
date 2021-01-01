@@ -1,0 +1,17 @@
+{
+  "name": "employee_manager",
+  "version": "1.0.0",
+  "description": "This app allows to maintain the Employee Database through CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garima Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
